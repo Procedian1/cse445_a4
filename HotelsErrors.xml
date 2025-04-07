@@ -17,7 +17,7 @@
   <!-- 3: Missing one Phone element -->
   <Hotel Rating="4.0">
     <Name>Hyatt Place Tempe / Phoenix / University</Name>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>601</Number>
       <Street>E. 6th St</Street>
       <City>Tempe</City>
@@ -30,7 +30,7 @@
   <Hotel Rating="4.5">
     <Name>Scottsdale Marriott Old Town</Name>
     <Phone>480-945-1550</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>7325</Number>
       <Street>E. 3rd Ave</Street>
       <City>Scottsdale</City>
@@ -43,7 +43,7 @@
     <Name>DoubleTree by Hilton Phoenix Mesa</Name>
     <Name>Duplicate Name</Name>
     <Phone>480-833-5555</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>1011</Number>
       <Street>W. Holmes Ave</Street>
       <City>Mesa</City>
@@ -54,7 +54,7 @@
   <Hotel Rating="4.3">
     <Name>Sheraton Phoenix Downtown</Name>
     <Phone>602-262-2500</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>340</Number>
       <Street>N. 3rd St</Street>
       <City>Phoenix</City>
@@ -65,7 +65,7 @@
   <Hotel Rating="4.0">
     <Name>Holiday Inn Phoenix - Chandler</Name>
     <Phone>480-203-2121</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>1200</Number>
       <Street>W. Ocotillo Rd</Street>
       <City>Chandler</City>
@@ -76,7 +76,7 @@
   <Hotel Rating="3.8">
     <Name>Comfort Suites Phoenix Airport</Name>
     <Phone>480-446-9500</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>1625</Number>
       <Street>S. 52nd St</Street>
       <City>Tempe</City>
@@ -87,7 +87,7 @@
   <Hotel Rating="4.0">
     <Name>Radisson Hotel Phoenix Airport</Name>
     <Phone>602-661-3160</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>427</Number>
       <Street>N. 44th St</Street>
       <City>Phoenix</City>
@@ -98,7 +98,7 @@
   <Hotel Rating="4.1">
     <Name>DoubleTree by Hilton Hotel Phoenix Tempe</Name>
     <Phone>480-967-1441</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>2100</Number>
       <Street>S. Priest Dr</Street>
       <City>Tempe</City>
@@ -109,7 +109,7 @@
   <Hotel Rating="4.4">
     <Name>Residence Inn Tempe Downtown/University</Name>
     <Phone>480-967-2300</Phone>
-    <Address NearestAirport="Phoenix Sky Harbor International Airport">
+    <Address NearstAirport="Phoenix Sky Harbor International Airport">
       <Number>510</Number>
       <Street>S. Forest Ave</Street>
       <City>Tempe</City>
