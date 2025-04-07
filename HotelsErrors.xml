@@ -38,7 +38,7 @@
       <Zip>85251</Zip>
   </Hotel>
 
-  <!-- 5: Duplicate Name element -->
+  <!-- 5: duplicate Name  -->
   <Hotel Rating="4.1">
     <Name>DoubleTree by Hilton Phoenix Mesa</Name>
     <Name>Duplicate Name</Name>
